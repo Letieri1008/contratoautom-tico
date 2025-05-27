@@ -14,4 +14,4 @@ Este script permite modificar informações de um documento `.docx` sem a necess
 
 ---
 
-Se precisar de mais ajustes ou quiser melhorar ainda mais a apresentação para o GitHub, me avise! 🚀😊
+
